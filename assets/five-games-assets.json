@@ -1,0 +1,86 @@
+{
+  "squirtle-animated.glb": {
+    "source": "https://github.com/06wj/pokemon/blob/master/public/models/007/model.glb",
+    "bytes": 4546268,
+    "animations": [
+      "attack",
+      "happy",
+      "idle",
+      "run",
+      "sleep",
+      "walk"
+    ]
+  },
+  "pikachu-animated.glb": {
+    "source": "https://github.com/06wj/pokemon/blob/master/public/models/025/model.glb",
+    "bytes": 7344736,
+    "animations": [
+      "attack",
+      "happy",
+      "idle",
+      "run",
+      "sleep",
+      "walk"
+    ]
+  },
+  "ditto-animated.glb": {
+    "source": "https://github.com/06wj/pokemon/blob/master/public/models/132/model.glb",
+    "bytes": 1577336,
+    "animations": [
+      "attack",
+      "happy",
+      "idle",
+      "run",
+      "sleep",
+      "walk"
+    ]
+  },
+  "eevee-animated.glb": {
+    "source": "https://github.com/06wj/pokemon/blob/master/public/models/133/model.glb",
+    "bytes": 3344216,
+    "animations": [
+      "attack",
+      "happy",
+      "idle",
+      "run",
+      "sleep",
+      "walk"
+    ]
+  },
+  "lapras-animated.glb": {
+    "source": "https://github.com/06wj/pokemon/blob/master/public/models/131/model.glb",
+    "bytes": 4806472,
+    "animations": [
+      "attack",
+      "happy",
+      "idle",
+      "run",
+      "sleep",
+      "walk"
+    ]
+  },
+  "magikarp-animated.glb": {
+    "source": "https://github.com/06wj/pokemon/blob/master/public/models/129/model.glb",
+    "bytes": 2332536,
+    "animations": [
+      "attack",
+      "happy",
+      "idle",
+      "run",
+      "sleep",
+      "walk"
+    ]
+  },
+  "dragonite-animated.glb": {
+    "source": "https://github.com/06wj/pokemon/blob/master/public/models/149/model.glb",
+    "bytes": 6089268,
+    "animations": [
+      "attack",
+      "happy",
+      "idle",
+      "run",
+      "sleep",
+      "walk"
+    ]
+  }
+}
